@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Mandipthakur. 
 - 👀 I’m interested in Data Science, Web Development, scripting.....
-- 🌱 My experience are in Python, HTML,CSS, Latex, Matlab..
+- 🌱 My experience are in Python, HTML,CSS, sql..
 - ✨ Currently, I'm learing Javascript...
 
 <!---
